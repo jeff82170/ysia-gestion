@@ -1,0 +1,16 @@
+{
+  "name": "ysia-gestion-facile",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "file-saver": "^2.0.5",
+    "lucide-react": "^0.320.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
